@@ -1,0 +1,3 @@
+#brew的安装
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+#https://www.cnblogs.com/liyihua/p/12753163.html
