@@ -1,4 +1,6 @@
-
+#mac安装docker
+#https://www.runoob.com/docker/macos-docker-install.html
+brew install --cask --appdir=/Applications docker
 
 #mac docker的配置
 #设置——docker engine——加代码
